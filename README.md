@@ -11,6 +11,7 @@ Stack - NodeJS/Express backend with a simple frontend using EJS for templating.
 - async vs defer
 - async (req, res)
 - async / await vs callbacks
+- [EJS](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
 -----
 - express
   - A lightweight, unopinionated web framework for Node JS. Provides a lot of built in methods that make it asier to build web apps by dealing with HTTP requests.
