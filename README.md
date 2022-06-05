@@ -1,5 +1,8 @@
-# node_js_todo_api
+# Todo App - NodeJs/EJS/PostgreSQL
 
+A to-do app to familiarize myself with a new stack.
+
+Stack - NodeJS/Express backend with a simple frontend using EJS for templating.
 ## Learnings
 
 - cors
